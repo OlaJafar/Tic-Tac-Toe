@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\zaina\\downloads\\tic tac toe game-2\\tic tac toe game-2\\tic tac toe game\\tic tac toe\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Tic Tac Toe||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\tictactoe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\tictactoe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\windowsformsapp1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\winnermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\winnermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\winnermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\winnermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\gamedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\gamedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\overlayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\overlayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\overlayform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\overlayform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\tictactoe.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\tictactoe.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B7F36A-AE4D-46DE-B872-E4B395A6DE23}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\gamedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\gamedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\resources\\x.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\resources\\x.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\tic tac toe\\resources\\o.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{33840E41-6B70-41B3-B3B1-EECE896FFA86}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\resources\\o.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tic Tac Toe",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Tic Tac Toe.csproj",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Tic Tac Toe.csproj",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Tic Tac Toe.csproj",
+              "RelativeToolTip": "Tic Tac Toe\\Tic Tac Toe.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-20T19:35:15.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "winnermessage.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\winnermessage.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\winnermessage.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\winnermessage.cs",
+              "RelativeToolTip": "Tic Tac Toe\\winnermessage.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:49:18.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "winnermessage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\winnermessage.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\winnermessage.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\winnermessage.cs [Design]",
+              "RelativeToolTip": "Tic Tac Toe\\winnermessage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:45:07.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTacToe.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\TicTacToe.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\TicTacToe.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\TicTacToe.cs",
+              "RelativeToolTip": "Tic Tac Toe\\TicTacToe.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:44:05.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicTacToe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\TicTacToe.Designer.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\TicTacToe.Designer.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\TicTacToe.Designer.cs",
+              "RelativeToolTip": "Tic Tac Toe\\TicTacToe.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:31:38.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Form1.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.resx",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Form1.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-19T19:32:05.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:29:46.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "overlayForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\overlayForm.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\overlayForm.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\overlayForm.cs [Design]",
+              "RelativeToolTip": "Tic Tac Toe\\overlayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:31:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicTacToe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\TicTacToe.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\TicTacToe.cs",
+              "ToolTip": "C:\\Users\\system tec\\OneDrive\\Desktop\\\u0642\u0645\u0637\u0634\u062A\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\TicTacToe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\system tec\\OneDrive\\Desktop\\\u0642\u0645\u0637\u0634\u062A\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\TicTacToe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:44:00.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:32:04.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:10:24.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "overlayForm.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\overlayForm.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\overlayForm.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\overlayForm.cs",
+              "RelativeToolTip": "Tic Tac Toe\\overlayForm.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwFIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:35:09.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\GameDashboard.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\GameDashboard.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\GameDashboard.cs",
+              "RelativeToolTip": "Tic Tac Toe\\GameDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:39:44.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:32:10.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\GameDashboard.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\GameDashboard.cs",
+              "ToolTip": "C:\\Users\\yasmm\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\GameDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\yasmm\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\GameDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:39:43.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TicTacToe.resx",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\TicTacToe.resx",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\TicTacToe.resx",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\TicTacToe.resx",
+              "RelativeToolTip": "Tic Tac Toe\\TicTacToe.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-19T19:31:42.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "themes.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\themes.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\themes.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\themes.cs",
+              "RelativeToolTip": "Tic Tac Toe\\themes.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwEIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:31:31.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Program.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Program.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Program.cs",
+              "RelativeToolTip": "Tic Tac Toe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:30:36.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Piece.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Piece.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Piece.cs",
+              "ToolTip": "C:\\Users\\yasmm\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Piece.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\yasmm\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Piece.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:31:17.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "overlayForm.resx",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\overlayForm.resx",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\overlayForm.resx",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\overlayForm.resx",
+              "RelativeToolTip": "Tic Tac Toe\\overlayForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-19T19:31:12.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "overlayForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\overlayForm.Designer.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\overlayForm.Designer.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\overlayForm.Designer.cs",
+              "RelativeToolTip": "Tic Tac Toe\\overlayForm.Designer.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAQwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:31:10.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\App.config",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\App.config",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\App.config",
+              "RelativeToolTip": "Tic Tac Toe\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-19T19:31:02.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Tic Tac Toe\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:30:54.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Properties\\Resources.resx",
+              "RelativeToolTip": "Tic Tac Toe\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-19T19:04:19.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "X.PNG",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Resources\\X.PNG",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Resources\\X.PNG",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Resources\\X.PNG",
+              "RelativeToolTip": "Tic Tac Toe\\Resources\\X.PNG",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-19T18:23:55.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "O.PNG",
+              "DocumentMoniker": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Resources\\O.PNG",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Resources\\O.PNG",
+              "ToolTip": "C:\\Users\\zaina\\Downloads\\Tic Tac Toe Game-2\\Tic Tac Toe Game-2\\Tic Tac Toe Game\\Tic Tac Toe\\Resources\\O.PNG",
+              "RelativeToolTip": "Tic Tac Toe\\Resources\\O.PNG",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-19T18:23:49.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
